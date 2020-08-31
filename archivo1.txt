@@ -1,0 +1,6 @@
+Este archivo lo estoy creando para tener mi primer resumen de la tarea que luego pasare a Jupyter.
+
+Resumen 1:
+
+Guido van Rossum, en diciembre de 1989, se propuso un proyecto. Quiso construir el suyo propio. Sus principios eran simples. Primero, debe ser fácil de leer. En lugar de extenderse sobre los finales de línea y dividirse por una maraña de llaves, cada trozo estaría rodeado de un espacio en blanco con sangría. En segundo lugar, debería permitir a los usuarios crear sus propios paquetes de módulos de codificación de propósito especial, que luego podrían ponerse a disposición de otros para formar la base de nuevos programas. En tercer lugar, quería un nombre "breve, único y ligeramente misterioso". Por lo tanto, lo llamó por Monty Python, un grupo de comedia británico. El depósito de paquetes se conoció como Cheese Shop.
+Casi 30 años después de su invento navideño, Van Rossum se asemeja a una versión tecnológica del personaje de Monty Python que accidentalmente se convirtió en el Mesías en la película "La vida de Brian". "Ciertamente, no me propuse crear un lenguaje destinado al consumo masivo", explica. Las consultas en Google sobre el idioma Python incrementan mientras que las consultas sobres otros idiomas para programar disminuyen.
